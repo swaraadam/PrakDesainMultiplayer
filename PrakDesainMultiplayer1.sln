@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrakDesainMultiplayer1", "PrakDesainMultiplayer1.csproj", "{B596A0F9-A3EE-CCCE-585B-6F2453142041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B596A0F9-A3EE-CCCE-585B-6F2453142041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B596A0F9-A3EE-CCCE-585B-6F2453142041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B596A0F9-A3EE-CCCE-585B-6F2453142041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B596A0F9-A3EE-CCCE-585B-6F2453142041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
